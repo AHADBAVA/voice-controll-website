@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    transition: background-color 2s;
+}
+
+#hero {
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    align-items: center;
+}
+
+#contact {
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    align-items: center;
+}
+#image-1{
+    border-radius:20px;
+}
+#hero{
+    height:100vh;
+}
+footer{
+   text-align:center;
+}
